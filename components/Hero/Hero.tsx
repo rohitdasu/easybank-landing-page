@@ -4,7 +4,7 @@ import { RequestInvite } from "../Button";
 
 const HeroImageDesktop = () => {
   return (
-    <div className="min-h-[calc(100vh-10rem)] bg-no-repeat bg-cover absolute w-1/2 bg-intro-desktop -top-[3rem] -right-[3rem] lg:block hidden">
+    <div className="min-h-[calc(100vh-10rem)] bg-no-repeat bg-cover absolute w-1/2 bg-intro-desktop -top-[3rem] right-[5rem] lg:block hidden">
       <Image
         src="/image-mockups.png"
         alt="hero_image"
