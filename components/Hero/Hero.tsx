@@ -34,7 +34,7 @@ export const Hero = () => {
   return (
     <div className="bg-[#fafafa] w-full">
       <div className="min-h-[calc(100vh-6rem)] flex flex-col-reverse lg:flex-row items-center max-w-6xl mx-auto justify-center gap-8 md:gap-16 lg:justify-between">
-        <div className="w-full lg:w-1/2 flex flex-col gap-8">
+        <div className="w-full lg:w-1/2 flex flex-col gap-8 py-8 lg:py-0">
           <h1 className="text-4xl lg:text-7xl text-center lg:text-start">
             Next generation digital banking
           </h1>
